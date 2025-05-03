@@ -1,0 +1,24 @@
+.unselectable{
+        -webkit-user-select: none;
+        -webkit-touch-callout: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        color: #ffffff;
+}
+
+h1{
+	font-family: Comic Sans MS;
+	font-size: 150px;
+	color: white;
+}
+
+@font-face {
+	font-family: 'Comic Sans MS';
+	src: url('ComicSansMS.ttf') format('truetype')
+}
+		
+
+body{
+	background-color: black;
+}
